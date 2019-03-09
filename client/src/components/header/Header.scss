@@ -1,0 +1,18 @@
+.Header {
+  display: flex;
+  justify-content: space-around;
+  position: relative;
+}
+.main-link {
+  //   text-decoration: none;
+  color: white;
+  font-size: 2rem;
+  text-align: left;
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+}
+.main-link:hover {
+  text-decoration: none;
+  color: green;
+}
